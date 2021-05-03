@@ -1,1 +1,3 @@
-# Certifiacte-DS-2021
+# Certificate-data-science
+ 
+ Check web page https://adieulev.github.io/Certificate-DS-2021/
