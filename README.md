@@ -1,3 +1,3 @@
 # Certificate-data-science
  
- Check web page https://adieulev.github.io/Certificate-DS-2024/
+ Check web page https://adieulev.github.io/Certificate-DS-2025/
